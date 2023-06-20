@@ -8,7 +8,7 @@ In this lab, you will login to the account you are going to use during the works
 
 [Lab 01 - Tenant Setup](./lab-01/README.md)
 
-## 📦 Lab 02 - Work with solutions - Test
+## 📦 Lab 02 - Work with solutions - Test 2
 
 In lab 02, you will learn about how to work with solutions. You will learn how to import a solution and how to export and unpack a solution. Then, you will inspect the solution to see what the structure of the solution is. After that, you will learn how to do the export and unpack more easily by cloning a solution.
 
